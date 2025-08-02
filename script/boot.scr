@@ -1,0 +1,1 @@
+mkimage -A arm64 -T script -C none -n "AutoBootZidoo" -d boot.cmd boot.scr
