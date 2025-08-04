@@ -1,8 +1,8 @@
 # wd-mycloud-initramfs
-**Boot d’un WD My Cloud Home Duo avec un initramfs minimal**
+** Boot d’un WD My Cloud Home Duo avec un initramfs minimal**
 > *Remplacement du système d’origine par une image Linux autonome, bootée en RAM via U-Boot et UART.*
 ***
-# 🚀 Boot d’un WD My Cloud Home Duo avec un initramfs minimal (Linux 5.15 + Buildroot)
+# 🚀 Projet MyCloud – Phase 2: Boot d’un WD My Cloud Home Duo avec un initramfs minimal (Linux 5.15 + Buildroot)
 
 > **Projet d’embarqué low-level** : remplacement du système d’origine d’un NAS WD par une image Linux minimaliste bootée en RAM via initramfs.  
 > Démonstration de maîtrise du noyau, du Device Tree, de Buildroot et du boot U-Boot.
