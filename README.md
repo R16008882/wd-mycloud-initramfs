@@ -97,8 +97,6 @@ Booter un **WD My Cloud Home Duo** (SoC Realtek RTD1295) avec une **image Linux 
 
 - [Buildroot Documentation](https://buildroot.org/)
 - [Kernel Config Guide](https://www.kernel.org/doc/html/latest/admin-guide/kernel-parameters.html)
-- [Realtek RTD1295 Datasheet (partiel)](https://github.com/rd129x)
-
 ---
 
 ## 📄 Licence
